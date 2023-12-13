@@ -1,5 +1,5 @@
-#include <iosteam.h>
-
+#include <iostream.h>
+using namespace std;
 //whit for
 /*void main(){
     for(int i = 50; i >= 0; i-=3) {
