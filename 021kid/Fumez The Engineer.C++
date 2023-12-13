@@ -15,7 +15,7 @@ using namespace std;
     cout<<i<<endl,
     i-=3
   }
-  
+  return 0;
 }*/
 //whit do while
 void main(){
@@ -25,5 +25,5 @@ void main(){
     cout<<i<<endl;
     i-=3
   } while (i >=0);
-  
+  return 0;
 }
